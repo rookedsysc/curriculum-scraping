@@ -20,7 +20,7 @@ git clone https://github.com/rookedsysc/curriculum_scraping.git
 
 ```shell
 wget https://github.com/rookedsysc/curriculum_scraping/archive/refs/heads/main.zip
-unzip main.zip
+unzip main.zip -d curriculum_scraping
 ```
 
 ## Usage
@@ -55,7 +55,7 @@ pip install selenium beautifulsoup4
 
 ## Run Example
 
-[](./run_example.gif)
+![run example](./run_example.gif)
 
 ## Contribution
 iIf you would like to contribute to this project, please refer to the CONTRIBUTING.md file.
