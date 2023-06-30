@@ -208,7 +208,13 @@ Part: Ch 02. 자바 제네릭(Generic) 이란
 Total: 01h:04m:19s
 
 Part: Ch 03. 람다와 스트림 API 활용하기
-Total: 00h:00m:00s
+01. 함수형 인터페이스(Functional Interface) 26:25
+02. 함수형 인터페이스 메서드 참조 26:56
+03. 람다식 이란 무엇인가 10:40
+04. 람다식의 사용방법 7:56
+05. Stream API의 이해 17:10
+06. Stream API의 활용 21:09
+Total: 01h:50m:16s
 
 Part: Ch 01. Others API를 활용하기
 01. JSON, XML Data Format 이해하기 15:38
@@ -376,11 +382,7 @@ Part: Ch 04. 실전 프로젝트 3: 사용자 도메인 개발
 Total: 02h:33m:36s
 
 Part: Ch 05. 실전 프로젝트 4: 스토어 도메인 개발
-01. Store 데이터 베이스 개발 25:20
-02. Store 서비스 로직 개발 34:19
-03. Store Menu 데이터 베이스 설계 18:04
-04. Store Menu 서비스 로직 개발 29:28
-Total: 01h:47m:11s
+Total: 00h:00m:00s
 
 Part: Ch 06. 실전 프로젝트 5 : 상품 주문 개발
 01. User Order 데이터 베이스 설계 14:12
